@@ -1,7 +1,7 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	/home/zornstrap/Downloads/yoda_Bust.stl
+Open File for Craft	/home/zornstrap/prusa_git/PrusaMendel/pla-bushing.stl
 bottom	False
 carve	False
 chamber	False
@@ -15,7 +15,7 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	False
+fill	True
 fillet	False
 flow	False
 home	False
@@ -26,7 +26,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	True
+multiply	False
 oozebane	False
 outset	False
 preface	False

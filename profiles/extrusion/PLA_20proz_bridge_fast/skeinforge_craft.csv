@@ -1,7 +1,7 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	/home/zornstrap/prusa_git/PrusaMendel/stl/rahmen.stl
+Open File for Craft	/home/zornstrap/prusa_git/felt/PrusaMendel/metric-prusa/allbutpulley.stl
 bottom	False
 carve	False
 chamber	False
