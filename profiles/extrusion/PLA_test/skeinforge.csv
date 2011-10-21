@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	494+60
+Open File for Skeinforge	/home/zornstrap/Dokumente/Schwimmer_Harri.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

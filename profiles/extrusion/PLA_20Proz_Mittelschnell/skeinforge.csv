@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	575+60
-Open File for Skeinforge	
+WindowPosition	486+36
+Open File for Skeinforge	/home/zornstrap/Fenris/FenrisHalbkreis_2.stl
 analyze	False
 craft	True
 help	False
